@@ -1,4 +1,4 @@
-import streamlit as str
+import streamlit as st
 import random
 
 # ตั้งค่าหน้าเว็บให้เปิดบนมือถือแล้วสวย
